@@ -1,6 +1,5 @@
 import styles from "./AthletesList.module.css";
 function AthletesList({ list, selectedAthlete, type }) {
-  console.log(type);
   return (
     <div>
       <h2>
